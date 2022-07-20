@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 233, 166);
+}
+
+.cart-bg {
+    background-color: rgba(0, 251, 255, 0.454);
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 15px rgb(152, 138, 95);
+}
+
+.menu-item:hover {
+    transform: translateY(-2px);
+    outline: 3px solid rgb(255, 255, 255);
+    background-color: white;
+    cursor: pointer;
+}
+
+.menu-item-bg-color {
+    background-color: rgba(255, 255, 255, 0.633);
+}
+
+.img-size {
+    width: 100%;
+    height: 11em;
+    background-position: center;
+    
+}
